@@ -99,7 +99,7 @@ highScore : '10'
 var john = {
   name : 'John',
 highScore : '12'
-}
+}   
 var ayush = {
   name : "Ayush",
   highScore : 20
